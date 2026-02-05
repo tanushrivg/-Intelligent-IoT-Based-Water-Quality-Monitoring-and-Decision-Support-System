@@ -141,3 +141,9 @@ IoT-based intelligent water quality monitoring system using pH, electrical condu
 - Temperature variation captured accurately
 - Reliable data visualization on ThingSpeak
 - Effective alert generation during abnormal conditions
+
+## Conclusion
+- The system provides intelligent and automated water quality monitoring.
+- Cloud analytics enable real-time decision support.
+- Event-based alerts improve response time during abnormal conditions.
+- The architecture supports scalable and real-world deployments.
