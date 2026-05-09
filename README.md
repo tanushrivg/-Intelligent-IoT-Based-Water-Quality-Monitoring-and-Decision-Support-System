@@ -21,7 +21,10 @@ IoT-based intelligent water quality monitoring system using pH, electrical condu
 - Generate event-based email and SMS alerts during abnormal conditions.
 - Demonstrate scalability for large-scale environmental monitoring.
 
+ ## Block Daigram 
+ <img width="1536" height="1024" alt="diagram" src="https://github.com/user-attachments/assets/c48e6d21-164a-48cc-900b-c75bbd88642e" />
 
+ 
 ## System Architecture
 
 ### 1. Sensing Layer
@@ -147,3 +150,9 @@ IoT-based intelligent water quality monitoring system using pH, electrical condu
 - Cloud analytics enable real-time decision support.
 - Event-based alerts improve response time during abnormal conditions.
 - The architecture supports scalable and real-world deployments.
+
+## Demo 
+<img width="2952" height="3836" alt="demo1" src="https://github.com/user-attachments/assets/c0e5812a-d153-404a-b1e2-a5c8d6997cef" />
+<img width="1170" height="1295" alt="demo2" src="https://github.com/user-attachments/assets/44d58199-7ea4-4c26-b22b-46610ffc1169" />
+
+
